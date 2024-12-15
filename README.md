@@ -26,3 +26,5 @@ SafetyNet Alerts is an application designed to provide emergency responders with
 ## Screenshots
 
 ## Architecture
+
+## Acknowledgements
